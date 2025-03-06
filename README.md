@@ -1,3 +1,3 @@
-# Compare-488-vs-489 PS3UPDAT.PUP
+# Compare-491-vs-492 PS3UPDAT.PUP
 
-https://erikpshat.github.io/Compare-488-vs-489
+https://erikpshat.github.io/Compare-491-vs-492
